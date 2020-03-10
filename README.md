@@ -1,5 +1,6 @@
 # Smart RGB Matrix
-Followed this tutorial for the intial set up: https://learn.adafruit.com/adafruit-rgb-matrix-bonnet-for-raspberry-pi/driving-matrices
+This matrix utilizes the MQTT protocol to display scrolling messages.
+We followed this tutorial for the intial set up of the pi with the matrix: https://learn.adafruit.com/adafruit-rgb-matrix-bonnet-for-raspberry-pi/driving-matrices I recommend checking out the python example code to get a feel for how the images or the text is displayed. Our current set up is coded for a 32x128 matrix (two 32x64 matricies). Here are the docs for paho-MQTT: https://pypi.org/project/paho-mqtt/#client Note that there is also a C++ library for paho-MQTT here: https://github.com/eclipse/paho.mqtt.cpp
 
 
 # Parts: 

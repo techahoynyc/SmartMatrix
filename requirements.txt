@@ -20,5 +20,5 @@ rgbmatrix==0.0.1
 six==1.14.0
 sqlparse==0.3.1
 typing-extensions==3.7.4.1
-websockets==8.1
+websockets==9.1
 yarl==1.4.2

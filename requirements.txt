@@ -11,7 +11,7 @@ idna-ssl==1.1.0
 llist==0.5
 multidict==4.7.4
 paho-mqtt==1.5.0
-Pillow==7.0.0
+Pillow==8.3.2
 pycparser==2.19
 pyllist==0.3
 PyNaCl==1.3.0
